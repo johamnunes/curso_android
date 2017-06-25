@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CursoAndroid</string>
+    <string name="enviar">Enviar Dados</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="lista">Ver listagem</string>
+    <string name="sem_dados">Você precisa digitar o Nome e o Sobrenome antes de enviar os dados.</string>
 </resources>
