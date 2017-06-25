@@ -1,2 +1,7 @@
 # curso_android
-Material do Curso de Desenvolvimento em Android
+Projeto criado no Curso de Desenvolvimento em Android
+
+Faculdade Pitágoras, Teixeira de Freitas/BA, Junho de 2017
+
+Criado por: Joham Nunes
+E-mail: johamnunes@gmail.com
