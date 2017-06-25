@@ -1,7 +1,7 @@
 # curso_android
-Projeto criado do Curso de Desenvolvimento em Android
+Projeto criado no Curso de Desenvolvimento em Android
 
-Faculdade Pitágoras, Junho de 2017
+Faculdade Pitágoras, Teixeira de Freitas/BA, Junho de 2017
 
 Criado por: Joham Nunes
 E-mail: johamnunes@gmail.com
