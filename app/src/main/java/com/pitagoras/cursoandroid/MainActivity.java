@@ -1,5 +1,6 @@
 package com.pitagoras.cursoandroid;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -56,6 +57,14 @@ public class MainActivity extends AppCompatActivity {
                     }
                     return null;
                 }
+
+                @Override
+                protected void onPostExecute(Void aVoid) {
+                    super.onPostExecute(aVoid);
+                    Toast.makeText(getApplicationContext(), R.string.sucesso, Toast.LENGTH_LONG).show();
+                    nomeEdit.setText("");
+                    sobrenomeEdit.setText("");
+                }
             }.execute();
 
         } else {
@@ -64,6 +73,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickLista(View view){
-
+        startActivity(new Intent(this, ListaActivity.class));
     }
 }

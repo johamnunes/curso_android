@@ -5,4 +5,5 @@
     <string name="sobrenome">Sobrenome</string>
     <string name="lista">Ver listagem</string>
     <string name="sem_dados">Você precisa digitar o Nome e o Sobrenome antes de enviar os dados.</string>
+    <string name="sucesso">Dados enviados com sucesso!</string>
 </resources>
